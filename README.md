@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.instagram.com/joe.barandon_/">
-        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
+      <a href="https://www.linkedin.com/in/joebarandon/">
+        <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wx5ZiIFoOjlpfqYcee0H1XU5huHgxdGvSE3n6qxBDQ&s=10"/>
       </a>
     </td>
     <td>
@@ -13,8 +13,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/joebarandon/">
-        <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wx5ZiIFoOjlpfqYcee0H1XU5huHgxdGvSE3n6qxBDQ&s=10"/>
+      <a href="https://www.instagram.com/joe.barandon_/">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
       </a>
     </td>
     <td>
