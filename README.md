@@ -18,6 +18,6 @@
 - 🌱 I’m currently learning Artificial Intelligence, from software development to machine learning, I want to incorporate the smart and responsible use of AI to my workflows
 - 👯 I’m looking to collaborate on any projects!
 - 💬 Ask me about AI, Computer Science, Programming, and some Basketball 🏀
-- 📫 How to reach me: Just click the images in my profile and slide into my DMs!
+- 📫 How to reach me: You can directly email me at barandonjoe13@gmail.com - or just click the images in my profile and slide into my DMs!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love developing! 💻 
