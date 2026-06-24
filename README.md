@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=00FF00&strokeWidth=3&animation=fadeIn)
 
 <a href="https://www.instagram.com/joe.barandon_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
 </a>
 <a href="https://facebook.com/joe.barandon7/">
   <img height="50" src="https://www.flaticon.com/free-icon/facebook_725289"/>
