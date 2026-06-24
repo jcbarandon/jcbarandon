@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=00FF00&strokeWidth=3&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=00FF00&strokeWidth=3&animation=fadeIn)
 
 <a href="https://www.instagram.com/joe.barandon_/">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
