@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=FFFFFF&&strokeWidth=5&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=FFFFFF&&strokeWidth=5&animation=blink)
 
 <table>
   <tr>
