@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
 </a>
 <a href="https://facebook.com/joe.barandon7/">
-  <img height="50" src="https://www.flaticon.com/free-icon/facebook_725289"/>
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/725/725289.png"/>
 </a>
