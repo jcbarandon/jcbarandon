@@ -34,16 +34,23 @@
 
 ```javascript
 const joe = {
-  AboutME: {
-                        Work: "Junior Applications Developer @ Ateneo de Naga University", "Machine Learning Engineering Intern @ FlyRank AI",
-                        Interests: "AI", "Computer Science", "Programming", "and some Basketball",
-                        School: "Ateneo de Naga University",
-                        😄 pronouns: "he" | "him",
-                      },
-  
-  code: [HTML, CSS, Javascript, Typescript, Python, Java, C++, PHP],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-}
+  aboutMe: {
+    work: [
+      "Junior Applications Programmer @ Ateneo de Naga University",
+      "Tagalog Freelance Writing Consultant @ Outlier"
+    ],
+    school: "Ateneo de Naga University (BS Computer Science)",
+    interests: ["Artificial Intelligence", "Software Engineering", "UI/UX Design", "Basketball"],
+    pronouns: "he/him"
+  },
+  code: ["JavaScript", "Python", "Java", "C", "C++", "C#", "HTML", "CSS"],
+  technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Azure Services", "GitHub", "Linux"],
+  achievements: [
+    "National Finalist - DOST Level Up 2.0: Esports Game Dev Challenge",
+    "1st Place - AdNU Software Festival 2025 (TACTICS)",
+    "Consistent Academic Honors (Current QPI: 3.79)"
+  ]
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
