@@ -1,19 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=FFFFFF&&strokeWidth=5&animation=blink)
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.instagram.com/joe.barandon_/" style="text-decoration: none;">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
-  </a>
-  <a href="https://facebook.com/joe.barandon7/" style="text-decoration: none;">
-    <img height="50" src="https://cdn-icons-png.flaticon.com/512/725/725289.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joebarandon/" style="text-decoration: none;">
-    <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wx5ZiIFoOjlpfqYcee0H1XU5huHgxdGvSE3n6qxBDQ&s=10"/>
-  </a>
-  <a href="mailto:barandonjoe13@gmail.com" style="text-decoration: none;">
-    <img height="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/joe.barandon_/">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://facebook.com/joe.barandon7/">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/725/725289.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/joebarandon/">
+        <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wx5ZiIFoOjlpfqYcee0H1XU5huHgxdGvSE3n6qxBDQ&s=10"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:barandonjoe13@gmail.com">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Hi there 👋
 - 🔭 I’m currently working as a Junior Applications Developer intern for Ateneo de Naga University | as a Machine Learning Engineering Intern at FlyRank Ai!
