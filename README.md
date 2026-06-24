@@ -30,6 +30,24 @@
   </tr>
 </table>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const joe = {
+  AboutME: {
+                        Work: "Junior Applications Developer @ Ateneo de Naga University", "Machine Learning Engineering Intern @ FlyRank AI",
+                        Interests: "AI", "Computer Science", "Programming", "and some Basketball",
+                        School: "Ateneo de Naga University",
+                        😄 pronouns: "he" | "him",
+                      },
+  
+  code: [HTML, CSS, Javascript, Typescript, Python, Java, C++, PHP],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 ## Hi there 👋
 - 🔭 I’m currently working as a Junior Applications Developer intern for Ateneo de Naga University | as a Machine Learning Engineering Intern at FlyRank Ai!
 - 🌱 I’m currently learning Artificial Intelligence, from software development to machine learning, I want to incorporate the smart and responsible use of AI to my workflows
