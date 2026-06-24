@@ -1,19 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently working as a Junior Applications Developer intern for Ateneo de Naga University | as a Machine Learning Engineering Intern at FlyRank Ai!
+- 🌱 I’m currently learning Artificial Intelligence, from software development to machine learning, I want to incorporate the smart and responsible use of AI to my workflows
+- 👯 I’m looking to collaborate on any projects!
+- 💬 Ask me about AI, Computer Science, Programming, and some Basketball 🏀
+- 📫 How to reach me: Just click the images in my profile and slide into my DMs!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love developing! 💻 
 
-<!-- 
-**jcbarandon/jcbarandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=00FF00&strokeWidth=3&animation=fadeIn)
 
 <a href="https://www.instagram.com/joe.barandon_/">
