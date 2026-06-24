@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/joe.barandon_/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<a href="https://facebook.com/joe.barandon7/">
+  <img height="50" src="https://www.flaticon.com/free-icon/facebook_725289"/>
+</a>
