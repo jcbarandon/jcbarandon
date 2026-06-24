@@ -18,6 +18,11 @@
       </a>
     </td>
     <td>
+      <a href="https://www.x.com/joebarandon">
+        <img height="50" src="https://static.freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png"/>
+      </a>
+    </td>
+    <td>
       <a href="mailto:barandonjoe13@gmail.com">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
       </a>
