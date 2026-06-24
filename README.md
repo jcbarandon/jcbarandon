@@ -4,12 +4,12 @@
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/joebarandon/">
-        <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wx5ZiIFoOjlpfqYcee0H1XU5huHgxdGvSE3n6qxBDQ&s=10"/>
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png"/>
       </a>
     </td>
     <td>
       <a href="https://facebook.com/joe.barandon7/">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/725/725289.png"/>
+        <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/016/716/481/small/facebook-icon-free-png.png"/>
       </a>
     </td>
     <td>
