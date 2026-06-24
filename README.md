@@ -37,14 +37,15 @@ const joe = {
   aboutMe: {
     work: [
       "Junior Applications Programmer @ Ateneo de Naga University",
+      "Machine Learning Engineering intern @ FlyRank AI",
       "Tagalog Freelance Writing Consultant @ Outlier"
     ],
     school: "Ateneo de Naga University (BS Computer Science)",
     interests: ["Artificial Intelligence", "Software Engineering", "UI/UX Design", "Basketball"],
     pronouns: "he/him"
   },
-  code: ["JavaScript", "Python", "Java", "C", "C++", "C#", "HTML", "CSS"],
-  technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Azure Services", "GitHub", "Linux"],
+  code: ["HTML", "CSS", "JavaScript", "Python", "Java", "C", "C++", "C#", "PHP"],
+  technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Azure Services", "GitHub", "Linux", "Bootstrap"],
   achievements: [
     "National Finalist - DOST Level Up 2.0: Esports Game Dev Challenge",
     "1st Place - AdNU Software Festival 2025 (TACTICS)",
