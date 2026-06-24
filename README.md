@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello%20I'm%20Joe!&20Test&fontAlign=70&stroke=00FF00&strokeWidth=3&animation=fadeIn)
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/joe.barandon_/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
