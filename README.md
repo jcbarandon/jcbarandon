@@ -5,6 +5,8 @@
 -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joe%20Barandon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20|%20Machine%20Learning%20|%20Data%20Science%20|%20Applications%20Developer%20&descAlignY=51&descAlign=50" width="100%" alt="Joe Barandon banner" />
+
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
