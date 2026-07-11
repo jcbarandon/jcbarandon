@@ -34,22 +34,42 @@
 
 ```javascript
 const joe = {
-  aboutMe: {
-    work: [
-      "Junior Applications Programmer @ Ateneo de Naga University",
-      "Machine Learning Engineering intern @ FlyRank AI",
-      "Tagalog Freelance Writing Consultant @ Outlier"
-    ],
-    school: "Ateneo de Naga University (BS Computer Science)",
-    interests: ["Artificial Intelligence", "Software Engineering", "UI/UX Design", "Basketball"],
-    pronouns: "he/him"
-  },
-  code: ["HTML", "CSS", "JavaScript", "Python", "Java", "C", "C++", "C#", "PHP"],
-  technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Azure Services", "GitHub", "Linux", "Bootstrap"],
-  achievements: [
-    "National Finalist - DOST Level Up 2.0: Esports Game Dev Challenge",
-    "1st Place - AdNU Software Festival 2025 (TACTICS)",
-    "Consistent Academic Honors (Current QPI: 3.79)"
+  leadershipAndActivities: [
+    {
+      org: "AdNU Gabay Scholars' Organization",
+      role: "Member",
+      period: "08/2023 - Present",
+      location: "Naga City, Philippines",
+      focus: "Student engagement, scholar development, and community-oriented initiatives"
+    },
+    {
+      org: "Naga City Scholars Guild",
+      role: "Member",
+      period: "08/2023 - Present",
+      location: "Naga City, Philippines",
+      focus: "Scholar development, collaboration, and academic growth among scholars"
+    },
+    {
+      org: "Zonta Club",
+      role: "Treasurer",
+      period: "11/2021 - 10/2022",
+      location: "Naga City, Philippines",
+      focus: "Managed club funds and financial records; budgeting and activity planning"
+    },
+    {
+      org: "YES-O Club",
+      role: "Public Information Officer",
+      period: "10/2021 - 07/2022",
+      location: "Naga City, Philippines",
+      focus: "Announcements and info dissemination; promoted environmental activities"
+    },
+    {
+      org: "YES-O Club",
+      role: "Auditor",
+      period: "08/2018 - 03/2019",
+      location: "Naga City, Philippines",
+      focus: "Maintained organizational records and supported club operations"
+    }
   ]
 };
 ```
