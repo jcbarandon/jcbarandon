@@ -1,0 +1,8 @@
+# local python env + one-time image prep tooling
+.venv/
+__pycache__/
+*.pyc
+
+# local preview renders (regenerate any time with Chrome/qlmanage)
+preview-*.png
+*-static.svg
